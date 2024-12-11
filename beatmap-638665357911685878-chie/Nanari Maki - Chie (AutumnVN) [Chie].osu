@@ -32,8 +32,8 @@ BeatmapSetID:2276358
 [Difficulty]
 HPDrainRate:5
 CircleSize:4
-OverallDifficulty:7
-ApproachRate:7
+OverallDifficulty:8
+ApproachRate:8
 SliderMultiplier:2
 SliderTickRate:1
 
@@ -58,7 +58,6 @@ SliderTickRate:1
 18210,-90.9090909090909,4,2,0,75,0,0
 18710,-83.3333333333333,4,2,0,75,0,0
 19210,-100,4,2,0,75,0,0
-24960,-100,4,2,0,75,0,0
 41210,-117.647058823529,4,2,0,75,0,0
 54710,-100,4,2,0,75,0,0
 56460,-83.3333333333333,4,2,0,75,0,0
