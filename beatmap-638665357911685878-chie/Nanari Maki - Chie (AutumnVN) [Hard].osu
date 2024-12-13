@@ -12,7 +12,7 @@ LetterboxInBreaks: 0
 WidescreenStoryboard: 1
 
 [Editor]
-DistanceSpacing: 1.1
+DistanceSpacing: 1
 BeatDivisor: 4
 GridSize: 4
 TimelineZoom: 1.1
@@ -24,10 +24,10 @@ Artist:Nanari Maki
 ArtistUnicode:槇ななり
 Creator:AutumnVN
 Version:Hard
-Tags:gaman ga dekinai doutei aniki to sunao ni narenai hankou imouto sister position visual novel eroge ending ed japanese video game hagumi nishizawa 50.449 yoshiki igarashi
-BeatmapSetID:2276358
 Source:ガマンができない童貞兄キと、スナオになれない反抗妹
+Tags:gaman ga dekinai doutei aniki to sunao ni narenai hankou imouto sister position visual novel eroge ending ed japanese video game hagumi nishizawa 50.449 yoshiki igarashi
 BeatmapID:4893898
+BeatmapSetID:2276358
 
 [Difficulty]
 HPDrainRate:4
@@ -57,6 +57,9 @@ SliderTickRate:1
 72210,-90.9090909090909,4,2,0,75,0,0
 81460,-100,4,2,0,75,0,0
 88960,-111.111111111111,4,2,0,75,0,0
+90460,-111.111111111111,4,2,0,5,0,0
+90710,-111.111111111111,4,2,0,75,0,0
+91710,-111.111111111111,4,2,0,5,0,0
 
 
 [Colours]
@@ -128,9 +131,9 @@ Combo2 : 248,220,177
 240,298,22710,2,0,L|254:212,1,85,2|4,0:0|0:0,0:0:0:0:
 325,154,23210,5,2,0:0:0:0:
 336,246,23460,1,10,0:0:0:0:
-412,192,23710,5,2,0:0:0:0:
+412,192,23710,1,2,0:0:0:0:
 423,284,23960,1,2,0:0:0:0:
-499,230,24210,5,2,0:0:0:0:
+499,230,24210,1,2,0:0:0:0:
 510,322,24460,1,10,0:0:0:0:
 328,366,24960,5,0,0:0:0:0:
 328,366,25460,2,0,L|244:353,1,85,10|0,0:0|0:0,0:0:0:0:
