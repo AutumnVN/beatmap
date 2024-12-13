@@ -24,10 +24,10 @@ Artist:Nanari Maki
 ArtistUnicode:槇ななり
 Creator:AutumnVN
 Version:Normal
-Tags:gaman ga dekinai doutei aniki to sunao ni narenai hankou imouto sister position visual novel eroge ending ed japanese video game hagumi nishizawa 50.449 yoshiki igarashi
-BeatmapSetID:2276358
 Source:ガマンができない童貞兄キと、スナオになれない反抗妹
+Tags:gaman ga dekinai doutei aniki to sunao ni narenai hankou imouto sister position visual novel eroge ending ed japanese video game hagumi nishizawa 50.449 yoshiki igarashi
 BeatmapID:4882700
+BeatmapSetID:2276358
 
 [Difficulty]
 HPDrainRate:3
@@ -54,6 +54,8 @@ SliderTickRate:1
 8960,-100,4,2,0,75,0,0
 41210,-111.111111111111,4,2,0,75,0,0
 56460,-100,4,2,0,75,0,0
+56960,-100,4,2,0,75,0,1
+80960,-100,4,2,0,75,0,0
 90460,-100,4,2,0,5,0,0
 90710,-100,4,2,0,75,0,0
 91710,-100,4,2,0,5,0,0
